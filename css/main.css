@@ -84,7 +84,9 @@ main {
 
 img {
   border-radius: 2.5%;
-  width: 100%; }
+  width: 100%;
+  max-width: 100%; 
+display: block;}
 
 figcaption {
   font-style: italic;
@@ -185,7 +187,7 @@ figcaption {
   padding-right: 0;
   padding-left: 0; }
 
-#introductionText {
+#tribute-info {
   background: rgba(255, 255, 255, 0.8);
   padding: inherit 40vw;
   margin-top: 500px;
