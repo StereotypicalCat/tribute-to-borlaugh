@@ -85,8 +85,7 @@ main {
 img {
   border-radius: 2.5%;
   width: 100%;
-  max-width: 100%; 
-display: block;}
+  max-width: 100%; }
 
 figcaption {
   font-style: italic;
@@ -114,7 +113,7 @@ figcaption {
   font-weight: 600; }
 
 .earlyLife {
-  background-image: url(../img/Dr\ Borlag\ EarlyLife.jpg);
+  background-image: url(https://i.imgur.com/MfQihL1.jpg);
   opacity: 0.8;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -135,7 +134,7 @@ figcaption {
   margin-top: 20px; }
 
 .midLife {
-  background-image: url(../img/Dr\ Borlag\ close-up.jpg);
+  background-image: url(https://i.imgur.com/T8EtYZf.jpg);
   opacity: 0.8;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -150,7 +149,7 @@ figcaption {
   margin-top: 20px; }
 
 .lateLife {
-  background-image: url(../img/Dr\ Borlag\ Late\ Life\ BW.png);
+  background-image: url(https://i.imgur.com/4t2tKFv.png);
   opacity: 0.8;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -174,8 +173,8 @@ figcaption {
 
 .parallax {
   /* The image used */
-  background-image: url("../img/Dr Borlag.jpg");
-  height: 180vh;
+  background-image: url("https://i.imgur.com/CtmF8Pr.jpg");
+  height: 250vh;
   opacity: 0.8;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
